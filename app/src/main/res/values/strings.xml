@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pill Control</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_cadastro">ActivityCadastro</string>
+    <string name="check_d1">Diabetes</string>
+    <string name="check_d2">Osteoporose</string>
+    <string name="check_d3">Alzheimer</string>
+    <string name="check_d4">Depressão</string>
+    <string name="check_d5">Hipertensão</string>
+    <string name="check_d6">Parkinson</string>
+    <string name="check_d7">Asma</string>
+    <string name="check_d8">Gastrite</string>
+</resources>
